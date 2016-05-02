@@ -1,4 +1,4 @@
-package cn.edu.cdu.builder;
+package cn.edu.cdu.creational.builder;
 
 public class TestBuilderPattern {
 

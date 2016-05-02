@@ -1,4 +1,4 @@
-package cn.edu.cdu.facade;
+package cn.edu.cdu.structural.facade;
 
 /**
  * a simple interface is required to access a complex system;

@@ -1,4 +1,4 @@
-package cn.edu.cdu.facade;
+package cn.edu.cdu.structural.facade;
 
 class ComputerFacade {
     public static String BOOT_SECTOR = "c://windows/system32";

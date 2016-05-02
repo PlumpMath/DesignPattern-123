@@ -1,4 +1,4 @@
-package cn.edu.cdu.adapter;
+package cn.edu.cdu.structural.adapter;
 
 public class Volt {
 

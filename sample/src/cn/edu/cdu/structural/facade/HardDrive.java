@@ -1,4 +1,4 @@
-package cn.edu.cdu.facade;
+package cn.edu.cdu.structural.facade;
 
 import java.util.Random;
 

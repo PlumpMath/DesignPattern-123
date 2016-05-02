@@ -1,4 +1,4 @@
-package cn.edu.cdu.facade;
+package cn.edu.cdu.structural.facade;
 
 class Memory {
     public boolean load(long position, boolean res) {
